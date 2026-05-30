@@ -1,6 +1,6 @@
 # Akash Yadav — DevOps & Cloud Infrastructure
 
-Senior DevOps Engineer · 3.3 years · FinTech payment platforms · AWS EKS
+Senior DevOps Engineer · with years of Experience · FinTech payment platforms · AWS EKS
 
 ---
 
